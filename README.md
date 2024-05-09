@@ -85,12 +85,10 @@ Due to licensing restrictions associated with many NER datasets used in our eval
 
 If you find UniversalNER helpful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@article{zhou2023universalner,
+@inproceedings{zhou2024universalner,
       title={UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition}, 
       author={Wenxuan Zhou and Sheng Zhang and Yu Gu and Muhao Chen and Hoifung Poon},
-      year={2023},
-      eprint={2308.03279},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      year={2024},
+      booktitle={ICLR}
 }
 ```
